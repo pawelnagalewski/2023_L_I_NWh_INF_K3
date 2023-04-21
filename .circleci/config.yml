@@ -1,5 +1,5 @@
 version: 2.1 
-jobs taki mały chochlik tutaj dam 
+jobs:
 
   build-and-test:  
 
